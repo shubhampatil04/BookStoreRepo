@@ -1,0 +1,348 @@
+[
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app",
+        {
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544181999661,
+            "changeTime": 1544181999661,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main",
+        {
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544181999661,
+            "changeTime": 1544181999661,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310770,
+            "changeTime": 1544265310770,
+            "contentHash": "5d01f3b640c9658c0be9fcc395da6b802cf0cc2c"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544181999661,
+            "changeTime": 1544181999661,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore",
+        {
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544182783163,
+            "changeTime": 1544182783163,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\Book__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\Book__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2060,
+            "modifiedTime": 1544265310704,
+            "changeTime": 1544265310704,
+            "contentHash": "e1b8e5bba55240a43ccfb6af0b6afaad18a2f8ab"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\fields\\Author__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\fields\\Author__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 357,
+            "modifiedTime": 1544265310745,
+            "changeTime": 1544265310745,
+            "contentHash": "a58fc2f51cb8da5bb671f1056a2e2ef3af575331"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\fields\\Book_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\fields\\Book_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 363,
+            "modifiedTime": 1544265310745,
+            "changeTime": 1544265310745,
+            "contentHash": "6ba46e1d9b4b493726e1cb47c28662138a96965b"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1544265310749,
+            "changeTime": 1544265310749,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\layouts\\Book__c-Book Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\layouts\\Book__c-Book Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2222,
+            "modifiedTime": 1544265310757,
+            "changeTime": 1544265310757,
+            "contentHash": "700883906a71e554a65a08955d2e44e52f1da7f4"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\flexipages\\BookStore_App_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\flexipages\\BookStore_App_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1544265310762,
+            "changeTime": 1544265310762,
+            "contentHash": "65bf2b6a0abf1f4ad94fc852c758a86170a53347"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\tabs\\Book__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\tabs\\Book__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1544265310764,
+            "changeTime": 1544265310764,
+            "contentHash": "33d296690a642082e57b8b9dbd236b3aece5a091"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\applications\\BookStore_App.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\applications\\BookStore_App.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 607,
+            "modifiedTime": 1544265310767,
+            "changeTime": 1544265310767,
+            "contentHash": "32961a5497c455d2ba82803bb6ae07bfb3648fd2"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5359,
+            "modifiedTime": 1544265310772,
+            "changeTime": 1544265310772,
+            "contentHash": "e4d0b9f0c4d7f996a62b3177bc2719873cb977dc"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5021,
+            "modifiedTime": 1544265310782,
+            "changeTime": 1544265310782,
+            "contentHash": "f26847d1bf436c96317f62f1656f2de70784dafd"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18886,
+            "modifiedTime": 1544265310798,
+            "changeTime": 1544265310798,
+            "contentHash": "7c97653df6ed03e53dbc112ced0ebd5cb2dd37ac"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5021,
+            "modifiedTime": 1544265310805,
+            "changeTime": 1544265310805,
+            "contentHash": "f26847d1bf436c96317f62f1656f2de70784dafd"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310746,
+            "changeTime": 1544265310746,
+            "contentHash": "a4fc143fca9ef0a759fccafb568254f358ac6621"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310699,
+            "changeTime": 1544265310699,
+            "contentHash": "e5298fdd6fab1dfb3a2536631edf25905edd1ecd"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310745,
+            "changeTime": 1544265310745,
+            "contentHash": "cbeac95ec0afd79eb7bbe2828129d09647dd3996"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\objects\\Book__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310748,
+            "changeTime": 1544265310748,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310756,
+            "changeTime": 1544265310756,
+            "contentHash": "0f567f62fb794f5460149c83d40f03c9fcdc09cf"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310761,
+            "changeTime": 1544265310761,
+            "contentHash": "311968be05fc80d15268735f65d0bb64dbcd53eb"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310764,
+            "changeTime": 1544265310764,
+            "contentHash": "995e8828fcda9655967d6ba33fbf2479a0755cea"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310767,
+            "changeTime": 1544265310767,
+            "contentHash": "b14e00de84a95924eb96c22566e40b858c5c3b14"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\BookStore\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544265310804,
+            "changeTime": 1544265310804,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
